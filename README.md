@@ -17,7 +17,7 @@ make their life easier and faster and make them enjoy more of their job!
 
 List of components is shown here:
 
-- [ThemeWrapper]() - a page wrapper that inherit global theme settings
+- [ThemeWrapper](https://github.com/Aslan-Khorramie/akhpck/tree/main/src/components/ThemeWrapper) - a page wrapper that inherit global theme settings
 
 ## Installation
 
@@ -30,7 +30,7 @@ npm i akhpck
 ## Development
 
 Want to contribute? Great!
-Create a Pull Request on akhpck [Github](https://github.com/Aslan-Khorramie/akhpck) page.
+Create a Pull Request on akhpck [ThemeWrapper Github](https://github.com/Aslan-Khorramie/akhpck/tree/main/src/components/ThemeWrapper) page.
 
 ## License
 
