@@ -7,6 +7,16 @@
     "dist",
     "src"
   ],
+  "keywords": [
+    "react",
+    "reactjs",
+    "react package",
+    "react hook",
+    "hook",
+    "api connector",
+    "ThemeWrapper",
+    "useAPI"
+  ],
   "engines": {
     "node": ">=10"
   },
