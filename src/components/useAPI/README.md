@@ -30,11 +30,12 @@ import {useAPI} from 'akhpck';
 function Sample(){
 const [status, response, error, apiCall] = useAPI()
 
-apiCall(
- 'api-endpoint-url',
- 'request-method',
- {data object to call api with},
- {headers object to call api with}
+apiCall({
+    url: 'api-endpoint-url',
+    method: 'request-method',
+    data: {data object to call api with},
+    headers: {headers object to call api with}
+}
 )
 
 console.log(status, response, error)
